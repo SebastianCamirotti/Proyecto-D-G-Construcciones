@@ -1,0 +1,11 @@
+Paleta de colores:
+
+     #090909  Negro
+     #bb935b  Marrón oscuro
+     #f0e6da  Crema claro
+     #7f340a  Ladrillo
+     #72754e  Verde oliva
+     #d1ba96  Crema más oscuro
+     #ccb282  Crema verdoso
+     #dcccac  Crema 
+
